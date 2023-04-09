@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working in Capgemini as a software engineer.
 
-- 🌱 I’m currently Working on Web App(Spring - Angular/ReactJs).
+- 🌱 I’m currently Working on Web App(Spring - Angular).
 
 - 🌱 I’m currently learning Microservices architecture && Kafka.
 
-- 💬 Ask me about **Reactjs & Spring**
+- 💬 Ask me about **Angular & Spring**
 
 - 📫 How to reach me **elhaddadayoub99@gmail.com**
 
